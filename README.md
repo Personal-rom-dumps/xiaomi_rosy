@@ -1,0 +1,14 @@
+# dot_rosy-userdebug 11 RQ3A.210705.001 eng.cirrus.20210723.231501 test-keys
+- manufacturer: 
+- platform: msm8953
+- codename: rosy
+- flavor: dot_rosy-userdebug
+- release: 11
+- id: RQ3A.210705.001
+- incremental: eng.cirrus.20210723.231501
+- tags: test-keys
+- fingerprint: Xiaomi/dot_rosy/rosy:11/RQ3A.210705.001/cirrus07232314:userdebug/test-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: dot_rosy-userdebug-11-RQ3A.210705.001-eng.cirrus.20210723.231501-test-keys
+- repo: xiaomi_rosy_dump
